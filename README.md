@@ -1,7 +1,7 @@
 Nim
 ===
 
-This template is a starting point for Turn Based Multiplayer games built with the mgwuSDK.
+This template is a starting point for Turn Based Multiplayer games built with the [mgwuSDK](https://github.com/adesai/mgwuSDK).
 
 You can easily change between Portrait and Landscape orientations.
 
